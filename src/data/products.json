@@ -1,0 +1,220 @@
+[
+  {
+    "id": "1",
+    "sku": "asdf123",
+    "name": "Lorem ipsum jacket",
+    "price": 100000,
+    "category": ["food"],
+    "tag": ["food", "jacket", "full sleeve"],
+    "stock": 10,
+    "image": [
+      "/assets/img/product/fruits/1.jpg",
+      "/assets/img/product/fruits/3.jpg",
+      "/assets/img/product/fruits/6.jpg",
+      "/assets/img/product/fruits/8.jpg",
+      "/assets/img/product/fruits/9.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
+  },
+  {
+    "id": "2",
+    "sku": "asdf124",
+    "name": "Lorem ipsum coat",
+    "price": 18.5,
+    "category": ["food"],
+    "tag": ["food", "coat", "full sleeve"],
+    "stock": 8,
+    "image": [
+      "/assets/img/product/fruits/2.jpg",
+      "/assets/img/product/fruits/4.jpg",
+      "/assets/img/product/fruits/5.jpg",
+      "/assets/img/product/fruits/7.jpg",
+      "/assets/img/product/fruits/9.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
+  },
+  {
+    "id": "5",
+    "sku": "asdf127",
+    "name": "Lorem ipsum female coat",
+    "price": 25.5,
+    "stock": 8,
+    "category": ["food"],
+    "tag": ["food", "coat", "full sleeve"],
+    "image": [
+      "/assets/img/product/fruits/5.jpg",
+      "/assets/img/product/fruits/2.jpg",
+      "/assets/img/product/fruits/4.jpg",
+      "/assets/img/product/fruits/7.jpg",
+      "/assets/img/product/fruits/9.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
+  },
+
+  {
+    "id": "8",
+    "sku": "asdf130",
+    "name": "Lorem ipsum fruits jacket",
+    "price": 29.85,
+    "category": ["food"],
+    "tag": ["food", "jacket", "full sleeve"],
+    "stock": 0,
+    "image": [
+      "/assets/img/product/fruits/8.jpg",
+      "/assets/img/product/fruits/6.jpg",
+      "/assets/img/product/fruits/3.jpg",
+      "/assets/img/product/fruits/1.jpg",
+      "/assets/img/product/fruits/9.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
+  },
+  {
+    "id": "9",
+    "sku": "asdf131",
+    "name": "Lorem ipsum fruits female top",
+    "price": 35.6,
+    "category": ["food"],
+    "tag": ["food", "top", "sleeveless"],
+    "stock": 5,
+    "affiliateLink": "//www.amazon.com",
+    "image": [
+      "/assets/img/product/fruits/1.jpg",
+      "/assets/img/product/fruits/7.jpg",
+      "/assets/img/product/fruits/5.jpg",
+      "/assets/img/product/fruits/2.jpg",
+      "/assets/img/product/fruits/4.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "10",
+    "sku": "asdf132",
+    "name": "Lorem ipsum blender",
+    "price": 15.6,
+    "category": ["fruits"],
+    "tag": ["fruits"],
+    "stock": 15,
+    "image": [
+      "/assets/img/product/fruits/1.jpg",
+      "/assets/img/product/fruits/2.jpg",
+      "/assets/img/product/fruits/3.jpg",
+      "/assets/img/product/fruits/4.jpg",
+      "/assets/img/product/fruits/5.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "11",
+    "sku": "asdf133",
+    "name": "Lorem ipsum speaker",
+    "price": 10.6,
+    "category": ["fruits"],
+    "tag": ["fruits"],
+    "stock": 25,
+    "image": [
+      "/assets/img/product/fruits/2.jpg",
+      "/assets/img/product/fruits/3.jpg",
+      "/assets/img/product/fruits/4.jpg",
+      "/assets/img/product/fruits/5.jpg",
+      "/assets/img/product/fruits/6.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "12",
+    "sku": "asdf134",
+    "name": "Lorem ipsum camera",
+    "price": 12.5,
+    "category": ["fruits"],
+    "tag": ["fruits"],
+    "stock": 20,
+    "image": [
+      "/assets/img/product/fruits/3.jpg",
+      "/assets/img/product/fruits/4.jpg",
+      "/assets/img/product/fruits/5.jpg",
+      "/assets/img/product/fruits/6.jpg",
+      "/assets/img/product/fruits/7.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "13",
+    "sku": "asdf135",
+    "name": "Lorem ipsum monitor",
+    "price": 14.5,
+    "category": ["fruits"],
+    "tag": ["fruits"],
+    "stock": 40,
+    "image": [
+      "/assets/img/product/fruits/4.jpg",
+      "/assets/img/product/fruits/5.jpg",
+      "/assets/img/product/fruits/6.jpg",
+      "/assets/img/product/fruits/7.jpg",
+      "/assets/img/product/fruits/8.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "14",
+    "sku": "asdf136",
+    "name": "Lorem ipsum small speaker",
+    "price": 2.5,
+    "category": ["fruits"],
+    "tag": ["fruits"],
+    "stock": 45,
+    "image": [
+      "/assets/img/product/fruits/5.jpg",
+      "/assets/img/product/fruits/6.jpg",
+      "/assets/img/product/fruits/7.jpg",
+      "/assets/img/product/fruits/8.jpg",
+      "/assets/img/product/fruits/1.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "15",
+    "sku": "asdf137",
+    "name": "Lorem ipsum microphone",
+    "price": 12.5,
+    "category": ["fruits"],
+    "tag": ["fruits"],
+    "stock": 5,
+    "image": [
+      "/assets/img/product/fruits/6.jpg",
+      "/assets/img/product/fruits/7.jpg",
+      "/assets/img/product/fruits/8.jpg",
+      "/assets/img/product/fruits/1.jpg",
+      "/assets/img/product/fruits/2.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "16",
+    "sku": "asdf138",
+    "name": "Lorem ipsum grinder",
+    "price": 22.5,
+    "category": ["fruits"],
+    "tag": ["fruits"],
+    "stock": 7,
+    "image": [
+      "/assets/img/product/fruits/7.jpg",
+      "/assets/img/product/fruits/8.jpg",
+      "/assets/img/product/fruits/1.jpg",
+      "/assets/img/product/fruits/2.jpg",
+      "/assets/img/product/fruits/3.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  }
+]
